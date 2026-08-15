@@ -4,9 +4,6 @@
         "email": "anthonyrowiehernandez29@gmail.com"
     },
     "records": {
-        "NS": [
-            "lee.ns.cloudflare.com",
-            "shaz.ns.cloudflare.com"
-        ]
+        "A": ["216.24.57.1"]
     }
 }
